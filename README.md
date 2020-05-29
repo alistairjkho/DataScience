@@ -19,5 +19,6 @@ Most of my resources come from multiple sources:
 * Reddit - /r/machinelearning, /r/datascience
 * GitHub
 
+I also try my best to cite sources in my notebooks in markdown, of where I have taken my inspiration from.
 
 
