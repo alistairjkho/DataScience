@@ -17,6 +17,7 @@ Most of my resources come from multiple sources:
 * Kaggle
 * StackOverflow
 * Reddit - /r/machinelearning, /r/datascience
+* GitHub
 
 
 
