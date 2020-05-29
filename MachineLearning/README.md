@@ -1,7 +1,7 @@
 # Machine Learning Python Notebooks
 My stab at machine learning in Python 3.7.7
 
-The tutorials are based on YouTube by [Tech with Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg). Kudos to him for being such a good teacher!
+Most of the inspiration for these notebooks are based on YouTube by [Tech with Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg). Kudos to him for being such a good teacher!
 
 ## Requirements
 The tutorials were all done in python using jupyterlab v2.1.2. 
