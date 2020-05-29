@@ -1,4 +1,4 @@
-# DataScience
+# DataScience README
 
 Hi there! My name is Alistair and this is my repository which contains my own notebooks written in Python that I use on my journey to learn Data Science.
 
