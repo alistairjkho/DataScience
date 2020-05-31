@@ -1,10 +1,10 @@
-# DataScience README
+# DataScience Portfolio by Alistair Ho
 
-Hi there! My name is Alistair and this is my repository which contains my own notebooks written in Python that I use on my journey to learn Data Science.
+This portfolio is a compilation of jupyter python notebooks which I created for data analysis or for exploration of machine learning algorithm which I used on my journey to learn Data Science.
 
 I am passionate aboute data science as I love doing analysis on data, where the applications are vast and encapsulates nearly every industry to this day. Having an inquisitive mind and the satisfaction of solving problems are huge factors that motivate me to explore data science and I am excited to share my experiences over time on GitHub.
 
-Having said that, I hope you do find these python notebooks interesting!
+Having said that, I hope you do find these notebooks interesting!
 
 
 # Resources
