@@ -22,4 +22,4 @@ Most of my resources come from multiple sources:
 I also try my best to cite sources in my notebooks in markdown, of where I have taken my inspiration from.
 
 
-
+![My Data Science Journey](Data Science Journey 5th June 2020.png "My Data Science Journey)
