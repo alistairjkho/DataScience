@@ -1,1 +1,1 @@
-shell is a very guai i love her she is the best very cool good great wow
+this is a test to see if the neural network algorithm can detect if it's a good review. I am writing really positive stuff here, it has been such an amazing journey learning about data science and I think it's a revolutionary tool for the future that can change a lot of people's lives for the better. There is so much potential and great things that can be achieved with this and I am so positive that I would love to have a career within this field. Very inspiring!
