@@ -27,6 +27,7 @@ Supervised learning:
 * K-nearest neighbors (KNN)
 * Support-vectors machine (SVM)
 * Neural networks (CNN) on images
+* Neural networks on text for sentiment analysis
 
 Unsupervised learning:
 * K-Means clustering
