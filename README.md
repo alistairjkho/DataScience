@@ -4,7 +4,7 @@ This portfolio is a compilation of jupyter python notebooks which I created for 
 
 I am passionate aboute data science as I love doing analysis on data, where the applications are vast and encapsulates nearly every industry to this day. Having an inquisitive mind and the satisfaction of solving problems are huge factors that motivate me to explore data science and I am excited to share my experiences over time on GitHub.
 
-Having said that, I hope you do find these notebooks interesting!
+Having said that, I hope you do find these projects interesting!
 
 
 # Resources
@@ -20,5 +20,6 @@ Most of my resources come from multiple sources:
 * GitHub
 
 I also try my best to cite sources in my notebooks in markdown, of where I have taken my inspiration from.
+
 
 
