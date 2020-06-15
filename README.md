@@ -17,7 +17,7 @@ Most of my resources come from multiple sources:
 * Kaggle
 * StackOverflow
 * Reddit - /r/machinelearning, /r/datascience
-* GitHub
+* GitHub repositories
 
 I also try my best to cite sources in my notebooks in markdown, of where I have taken my inspiration from.
 
