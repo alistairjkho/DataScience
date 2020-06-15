@@ -22,7 +22,7 @@ Most of my resources come from multiple sources:
 I also try my best to cite sources in my notebooks in markdown, of where I have taken my inspiration from.
 
 # My Data Science Journey Mindmap
-![My Data Science Journey Mindmap](DS_mindmap_05.06.20.png "My Data Science Journey")
+![My Data Science Journey Mindmap](DS_mindmap_15.06.20.png "My Data Science Journey")
 
 # Data Science Workflow Chart
-![Data Science Workflow](DS_workflow_05.06.20.png "Data Science Workflow")
+![Data Science Workflow](DS_workflow_15.06.20.png "Data Science Workflow")
