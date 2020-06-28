@@ -8,7 +8,7 @@ Having said that, I hope you do find this repository interesting!
 
 # Repository layout
 
-This repository is currently organised by
+This repository is currently organised by:
 
 * Machine learning - Projects focused on machine learning
 * Practices - Projects focused on practicing with libraries relevant to data science
