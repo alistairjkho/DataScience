@@ -35,12 +35,12 @@ This folder currently contains practice notebooks that covers:
   * Choropleth maps 
  
 * Statistical learning tutorial for beginners
- * Histograms
- * Outliers 
- * Boxplots
- * Summary statistics
- * Cumulative distribution function (CDF)
- * Relationship between variables
- * Correlation
- * Covariance
- * Mean vs median
+  * Histograms
+  * Outliers 
+  * Boxplots
+  * Summary statistics
+  * Cumulative distribution function (CDF)
+  * Relationship between variables
+  * Correlation
+  * Covariance
+  * Mean vs median
