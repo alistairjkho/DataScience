@@ -12,7 +12,7 @@ To put it simply: '*the objective of K-means is simple: group similar data point
 
 This folder consists of 3 python jupyter notebooks which explores the K-Means clustering machine learning algorithm.
 
-The most comprehensive notebook is the 'K Means Clustering - TwTim.ipynb', which is a tutorial based on the Tech With Tim's YouTube Channel which looks at predicting numbers 0 to 9 from an image dataset using K Means Clustering. The notebook will cover:
+The most comprehensive notebook is the '**K Means Clustering - TwTim.ipynb**', which is a tutorial based on the Tech With Tim's YouTube Channel which looks at predicting numbers 0 to 9 from an image dataset using K Means Clustering. The notebook will cover:
 
 * Importing the data
 * Fitting the model
@@ -20,6 +20,6 @@ The most comprehensive notebook is the 'K Means Clustering - TwTim.ipynb', which
 * Evaluation of the model with metrics
 * Validating the model's accuracy 
 
-The notebook 'Tensorflow Attempt' is an attempt to compare the same problem at predicting numbers from 0 to 9 using deep learning with Tensorflow machine learning package, to compare with the K-Means Clustering method.
+The notebook '**Tensorflow Attempt**' is an attempt to compare the same problem at predicting numbers from 0 to 9 using deep learning with Tensorflow machine learning package, to compare with the K-Means Clustering method.
 
-The notebook 'K Means - IML Youtube.ipynb' is a simple introduction into K means clustering from the Intuitive Machine Learning YouTube Channel, which looks at clustering of randomly generated data points visualised on a 2D dataset.
+The notebook '**K Means - IML Youtube.ipynb**' is a simple introduction into K means clustering from the Intuitive Machine Learning YouTube Channel, which looks at clustering of randomly generated data points visualised on a 2D dataset.
