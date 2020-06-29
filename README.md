@@ -12,7 +12,7 @@ This repository is currently organised by:
 
 * Machine learning - Projects focused on machine learning
 * Practices - Projects focused on practicing with libraries relevant to data science
-* Projects - Projects that explore all aspects of data science, from data analysis to machine learning
+* Projects - Projects that explore all aspects of data science, from webscraping and data analysis to machine learning
 
 # Resources
 
