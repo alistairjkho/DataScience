@@ -14,8 +14,8 @@ The project explores a [coronavirus dataset](https://www.kaggle.com/sudalairajku
 	* Barcharts 
 	* Treemap plots
 
-![](graphics/Coronavirus 3D map.gif)
-![](graphics/Coronavirus map animated.gif)
+![](Graphics/Coronavirus 3D map.gif)
+![](Graphics/Coronavirus map animated.gif)
 
 ## Customer Churn Analysis
 
@@ -29,7 +29,7 @@ Dataset from [Kaggle](https://www.kaggle.com/blastchar/telco-customer-churn)
 
 [Kernel inspiration](https://www.kaggle.com/pavanraj159/telecom-customer-churn-prediction)
 
-![](graphics/Customer Churn Analysis.png)
+![](Graphics/Customer Churn Analysis.png)
 
 ## House Prices Advanced Regression
 
