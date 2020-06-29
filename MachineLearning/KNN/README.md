@@ -24,11 +24,11 @@ KNN is an algorithm that is considered both non-parametric and an example of laz
 * Difficult to save it as a model as it has to save the training data for each cluster 
 * Useless to train beforehand because it constantly has to keep looking at every data point before it can make a prediction
 
-For more detailed information on KNN, visit: https://medium.com/capital-one-tech/k-nearest-neighbors-knn-algorithm-for-machine-learning-e883219c8f26
+For more detailed information on KNN, refer to this [Medium Article.](https://medium.com/capital-one-tech/k-nearest-neighbors-knn-algorithm-for-machine-learning-e883219c8f26)
 
 # Folder contents
 
-The python notebook in this folder contains a dataset from https://archive.ics.uci.edu/ml/datasets.php, which looks at a car evaluation dataset to determine which attributes affect the quality/class of the vehicle. (classification problem). The notebook will cover:
+The python notebook in this folder contains a [car evaluation dataset](https://archive.ics.uci.edu/ml/datasets.php) where KNN has been used to determine which attributes affect the quality/class of the vehicle. (classification problem). The notebook will cover:
 
 * Importing the dataset
 * Dealing with irregular data - encoding
